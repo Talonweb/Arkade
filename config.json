@@ -1,0 +1,24 @@
+{
+    "token": "TOKEN HERE",
+    "defaultPrefix": "$",
+    "owner": "765671192413339669",
+    "messages":
+    {
+        "permissionsMissing": "> :x: **Vous n'avez pas les permissions requises pour utiliser cette commande !**"
+    },
+    "links":
+    {
+        "inviteLink": "https://discord.com/oauth2/authorize?client_id=770701918082957363&scope=bot&permissions=8",
+        "supportServer": "https://discord.gg/JQA6NWp"
+    },
+    "colors":
+    {
+        "primary": "#03fcf0",
+        "success": "#84f542",
+        "error": "#e03112"
+    },
+    "footers":
+    {
+        "primary": " • Copyright 2020-2021 MINTYdev"
+    }
+}

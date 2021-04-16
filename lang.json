@@ -1,0 +1,244 @@
+{
+    "langs": ["fr", "en"],
+    "missingKey": "[MISSING TRANSLATED ENTRY]",
+    "translations":
+    {
+        "DATA_SENT":
+        {
+            "fr": "Ok ! Les données ont bien été envoyées à la console !",
+            "en": "All right ! Data has been sent to the console !"
+        },
+        "HELP_TITLE": {
+            "fr": "Commandes & Aide",
+            "en": "Commands & Help"
+        },
+        "HELP_DESCRIPTION": {
+            "fr": "Cette page d'aide contient toutes les informations à propos des commandes et du bot ainsi que toutes les informations utiles",
+            "en": "This help page contains all informations about me and my commands. You can also find some other useful informations"
+        },
+        "HELP_PREFIXHERE": {
+            "fr": "Mon préfixe ici est : [prefix]",
+            "en": "My prefix here is : [prefix]"
+        },
+        "HELP_CAT_COUNTERS": {
+            "fr": "Gestion des compteurs",
+            "en": "Counters management"
+        },
+        "HELP_CAT_SETTINGS": {
+            "fr": "Gestion des réglages",
+            "en": "Settings management"
+        },
+        "HELP_CAT_BOT": {
+            "fr": "Le bot",
+            "en": "The bot"
+        },
+        "HELP_CMD_CADD": {
+            "fr": "Ajoute un compteur d'un certain type",
+            "en": "Add a counter of a specified type"
+        },
+        "HELP_CMD_LANG": {
+            "fr": "Modifie la langue d'affichage du bot",
+            "en": "Edit the bot language on the server"
+        },
+        "HELP_CMD_CREM": {
+            "fr": "Supprime un compteur d'un certain type",
+            "en": "Remove the existing channel of the specified counter type"
+        },
+        "HELP_CMD_CFOR": {
+            "fr": "Change le formattage d'un type de compteur",
+            "en": "Change the formatting of the specified counter type"
+        },
+        "HELP_CMD_GOAL": {
+            "fr": "Définit l'objectif affiché par le compteur d'objectif",
+            "en": "Define the goal shown by the goal counter"
+        },
+        "HELP_CMD_SPREFIX": {
+            "fr": "Change le préfixe du bot sur le serveur",
+            "en": "Change the bot's prefix on the guild"
+        },
+        "HELP_CMD_SLANG": {
+            "fr": "Change la langue d'affichage du bot sur ce serveur",
+            "en": "Change the bot's display language on the guild"
+        },
+        "HELP_CMD_LINKS": {
+            "fr": "Obtenir les liens importants du bot",
+            "en": "Get bot's important links"
+        },
+        "HELP_CMD_PING": {
+            "fr": "Afficher le temps de réponse du bot",
+            "en": "Show API response time"
+        },
+        "HELP_CMD_GOAL_ARG": {
+            "fr": "<objectif>",
+            "en": "<goal>"
+        },
+        "HELP_CMD_FORMAT_ARG": {
+            "fr": "<formattage>",
+            "en": "<format>"
+        },
+        "HELP_CMD_PREFIX_ARG": {
+            "fr": "<préfixe>",
+            "en": "<prefix>"
+        },
+        "HELP_PREFIXHERE": {
+            "fr": "Mon préfixe ici est ",
+            "en": "My prefix here is "
+        },
+        "CMD_LINKS_TITLE": {
+            "fr": "Liens concernant le bot",
+            "en": "Useful links about the bot"
+        },
+        "CMD_LINKS_INVITE": {
+            "fr": "Cliquez ici pour inviter le bot",
+            "en": "Click here to invite the bot"
+        },
+        "CMD_LINKS_SUPPORTSERVER": {
+            "fr": "Cliquez ici pour rejoindre le serveur support",
+            "en": "Click here to join the support server"
+        },
+        "CMD_PING_TITLE": {
+            "fr": "Temps de réponse du bot",
+            "en": "Bot API response time"
+        },
+        "CMD_PING_BOT": {
+            "fr": "Ping du bot",
+            "en": "Bot's ping"
+        },
+        "CMD_PING_API": {
+            "fr": "Ping de l'API",
+            "en": "API response time"
+        },
+        "CMD_COUNTER_ERROR_ARGS_TITLE": {
+            "fr": "Arguments manquants",
+            "en": "Missing arguments"
+        },
+        "CMD_COUNTER_ERROR_ARGS_CONTENT": {
+            "fr": "Vous devez préciser le format que doivent prendre les compteurs ! \n **Exemple :** ",
+            "en": "You must specifiy a valid new format for counters of this type ! \n **Example :** "
+        },
+        "CMD_COUNTER_ERROR_FORMAT_CONTENT": {
+            "fr": "Vous devez indiquer **%format%** à l'endroit où vous souhaitez afficher la statistique !",
+            "en": "You must add the **%format%** variable where do you want the stat to be displayed !"
+        },
+        "CMD_COUNTER_ERROR_FORMAT_TITLE": {
+            "fr": "Variable manquante",
+            "en": "Missing variable"
+        },
+        "CMD_SUCCESS_TITLE": {
+            "fr": "Action effectuée avec succès",
+            "en": "Action completed successfully"
+        },
+        "CMD_ERROR_PERMISSIONS": {
+            "fr": "Permissions insuffisantes",
+            "en": "Insufficient permissions"
+        },
+        "CMD_ERROR_COOLDOWN": {
+            "fr": "Merci de patienter",
+            "en": "Please wait"
+        },
+        "CMD_ERROR_COOLDOWN_CONTENT": {
+            "fr": "Merci de patienter avant de réutiliser cette commande !",
+            "en": "Please wait before using this command again !"
+        },
+        "CMD_ERROR_SYNTAX": {
+            "fr": "Erreur dans la syntaxe",
+            "en": "Syntax error"
+        },
+        "CMD_ERROR_SYNTAX_CONTENT": {
+            "fr": "Utilisation incorrecte ! Utilisez :",
+            "en": "You provided a bad usage for the command ! Use :"
+        },
+        "CMD_ERROR_PERMISSIONS_ROLE": {
+            "fr": "Vous devez posséder le rôle %role% pour exécuter cette commande !",
+            "en": "You must have the role %role% to execute this command !"
+        },
+        "CMD_COUNTER_SUCCESS_FORMAT_CONTENT": {
+            "fr": "Le formattage a correctement été modifié ! Patientez pour la prochaine mise à jour avant qu'il s'affiche ! (Limitations imposées par Discord)",
+            "en": "Counter format successfully edited ! Please wait until the next update for it to be taken into account (Discord API limitations)"
+        },
+        "CMD_COUNTER_ERROR_UNKNOWN": {
+            "fr": "Compteur introuvablee",
+            "en": "Unknown counter"
+        },
+        "CMD_COUNTER_ERROR_UNKNOWN_CONTENT": {
+            "fr": "Il m'est impossible de trouver un compteur de ce type ! Vérifiez qu'il en existe bien un ou créez en un !",
+            "en": "Couldn't find a counter of this type ! Please check that it exists or make one !"
+        },
+        "CMD_COUNTER_REMOVE_SUCCESS": {
+            "fr": "Le compteur a correctement été supprimé du serveur !",
+            "en": "The counter has successfully been removed from the server !"
+        },
+        "CMD_COUNTER_ERROR_EXISTS": {
+            "fr": "Compteur déjà existant",
+            "en": "Counter already exists"
+        },
+        "CMD_COUNTER_ERROR_EXISTS_CONTENT": {
+            "fr": "Le compteur spécifié existe déjà sur ce serveur !",
+            "en": "The specified counter already exists on the server !"
+        },
+        "CMD_COUNTER_SUCCESS_ADDED": {
+            "fr": "Le compteur a correctement été ajouté au serveur ! N'oubliez pas de modifier ses permissions !",
+            "en": "The counter has successfully been added to the server ! Don't forget to edit the channel permissions !"
+        },
+        "CMD_LANG_SUCCESS": {
+            "fr": "La langue est désormais définie sur : ",
+            "en": "The bot language is now defined to : "
+        },
+        "CMD_LANG_ERROR_ALREADY": {
+            "fr": "La langue demandée est déjà utilisée sur ce serveur !",
+            "en": "The bot language on this server is already defined to this one !"
+        },
+        "CMD_LANG_ERROR_INCORRECT": {
+            "fr": "La nouvelle langue doit être spécifiée sous le format **EN** ou **FR** !",
+            "en": "The new language must be **FR** or **EN** !"
+        },
+        "CMD_LANG_ERROR_TITLE": {
+            "fr": "Mauvaise utilisation",
+            "en": "Bad usage of the command"
+        },
+        "LANGNAME": {
+            "fr": "Français",
+            "en": "English"
+        },
+        "CMD_ERROR_INTEGER": {
+            "fr": "L'argument fourni n'est pas un chiffre reconnaissable ! Vérifiez que vous n'avez pas fait d'erreur !",
+            "en": "The specified argument is not a number ! Please check that you spelled it correctly !"
+        },
+        "CMD_GOAL_ERROR_ALREADY": {
+            "fr": "L'objectif est déjà définit sur cette valeur !",
+            "en": "The goal is already defined to this value !"
+        },
+        "CMD_GOAL_SUCESS": {
+            "fr": "L'objectif a correctement été modifié sur : ",
+            "en": "The server goal has successfully been set to : "
+        },
+        "CMD_ERROR_ARGS_MISSING": {
+            "fr": "Arguments manquants !",
+            "en": "Missing args !"
+        },
+        "CMD_SETTINGS_PREFIX_ERROR_ARGS": {
+            "fr": "Vous devez préciser le nouveau préfixe à utiliser !",
+            "en": "You must specify the new prefix that should be used ! "
+        },
+        "CMD_SETTINGS_PREFIX_ERROR_PREFIX_TOOLONG": {
+            "fr": "Le préfixe fournit est trop long (plus de 6 caractères) !",
+            "en": "The provided prefix is too long ! (more than 6 characters)"
+        },
+        "CMD_SETTINGS_PREFIX_ERROR_PREFIX_ALREADY": {
+            "fr": "Le préfixe est déjà définit sur cette valeur !",
+            "en": "The actual prefix for this server is already defined to this value !"
+        },
+        "CMD_SETTINGS_PREFIX_ERROR_PREFIX_NO": {
+            "fr": "Le préfixe fournit est incorrect ! Essayez en un autre !",
+            "en": "The provided prefix is incorrect ! Try with another one."
+        },
+        "CMD_SETTINGS_PREFIX_ERROR_PREFIX_TITLE": {
+            "fr": "Préfixe incorrect !",
+            "en": "Incorrect prefix !"
+        },
+        "CMD_SETTINGS_PREFIX_SUCCESS": {
+            "fr": "Le préfixe est maintenant définit sur **",
+            "en": "The server prefix for the bot has successfully been defined to **"
+        }
+    }
+}
